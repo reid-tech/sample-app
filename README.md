@@ -1,7 +1,3 @@
 # sample-app
 
-#### Kiss mY aSS
-
-### MORE TEXT
-
-#### more text again!
+# Added new webhook url
